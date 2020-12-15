@@ -17,7 +17,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-public class Student_MS {
+public class Student_MS extends JFrame{
 
 	private JFrame frame;
 	private JTextField ID;
